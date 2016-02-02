@@ -1,0 +1,10 @@
+{
+    "name": "is-relative",
+    "description": "Returns `true` if the path appears to be relative.",
+    "repos": "https://github.com/jonschlinkert/is-relative.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.1.0"
+}
